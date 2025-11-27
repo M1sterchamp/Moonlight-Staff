@@ -2,9 +2,9 @@
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
-      "Co-Founder",
       "Management",
       "Developer",
+      "Co-Founder",
       "Graphics Design"
     ]
   },
@@ -18,8 +18,8 @@
   "804114837910847528": {
     "tag": "not_ze_one",
     "roles": [
-      "CEO",
-      "Event Manager"
+      "Event Manager",
+      "CEO"
     ]
   },
   "291354776044830720": {
@@ -46,23 +46,23 @@
   "485089015952048141": {
     "tag": "ameh6467",
     "roles": [
-      "Community Manager",
-      "Management"
+      "Management",
+      "Community Manager"
     ]
   },
   "204225186579480587": {
     "tag": "apache6467",
     "roles": [
-      "Event Manager",
-      "Management"
+      "Management",
+      "Event Manager"
     ]
   },
   "672844063225020446": {
     "tag": "mr_cobra0",
     "roles": [
-      "Event Team",
       "Staff",
-      "Human Resources"
+      "Human Resources",
+      "Event Team"
     ]
   }
 }
