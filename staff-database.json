@@ -21,28 +21,6 @@
       "Founder"
     ]
   },
-  "204225186579480587": {
-    "tag": "apache6467",
-    "roles": [
-      "Event Manager",
-      "Management"
-    ]
-  },
-  "893528843288215582": {
-    "tag": "davidmaso",
-    "roles": [
-      "Management",
-      "Human Resources Manager"
-    ]
-  },
-  "672844063225020446": {
-    "tag": "mr_cobra0",
-    "roles": [
-      "Event Team",
-      "Staff",
-      "Human Resources"
-    ]
-  },
   "754017832458780714": {
     "tag": "tkm6351",
     "roles": [
@@ -63,6 +41,28 @@
     "roles": [
       "Community Manager",
       "Management"
+    ]
+  },
+  "204225186579480587": {
+    "tag": "apache6467",
+    "roles": [
+      "Event Manager",
+      "Management"
+    ]
+  },
+  "672844063225020446": {
+    "tag": "mr_cobra0",
+    "roles": [
+      "Event Team",
+      "Staff",
+      "Human Resources"
+    ]
+  },
+  "893528843288215582": {
+    "tag": "davidmaso",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
     ]
   }
 }
