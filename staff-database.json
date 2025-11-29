@@ -1,13 +1,4 @@
 {
-  "1031144600187973642": {
-    "tag": "misterchamp",
-    "roles": [
-      "Management",
-      "Developer",
-      "Co-Founder",
-      "Graphics Design"
-    ]
-  },
   "754017832458780714": {
     "tag": "tkm6351",
     "roles": [
@@ -18,24 +9,33 @@
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
-      "Management",
       "Media Manager",
+      "Management",
       "Media Team",
+      "Graphics Design"
+    ]
+  },
+  "1031144600187973642": {
+    "tag": "misterchamp",
+    "roles": [
+      "Co-Founder",
+      "Management",
+      "Developer",
       "Graphics Design"
     ]
   },
   "804114837910847528": {
     "tag": "not_ze_one",
     "roles": [
-      "Event Manager",
-      "CEO"
+      "CEO",
+      "Event Manager"
     ]
   },
   "485089015952048141": {
     "tag": "ameh6467",
     "roles": [
-      "Management",
-      "Community Manager"
+      "Community Manager",
+      "Management"
     ]
   },
   "291354776044830720": {
@@ -47,16 +47,16 @@
   "204225186579480587": {
     "tag": "apache6467",
     "roles": [
-      "Management",
-      "Event Manager"
+      "Event Manager",
+      "Management"
     ]
   },
   "672844063225020446": {
     "tag": "mr_cobra0",
     "roles": [
+      "Event Team",
       "Staff",
-      "Human Resources",
-      "Event Team"
+      "Human Resources"
     ]
   },
   "893528843288215582": {
