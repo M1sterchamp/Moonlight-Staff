@@ -19,10 +19,19 @@
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
+      "Media Manager",
       "Co-Founder",
       "Management",
       "Bot Developer",
       "Graphics Design"
+    ]
+  },
+  "672844063225020446": {
+    "tag": "mr_cobra0",
+    "roles": [
+      "Event Team",
+      "Staff",
+      "Human Resources"
     ]
   },
   "804114837910847528": {
@@ -32,11 +41,25 @@
       "Event Manager"
     ]
   },
+  "204225186579480587": {
+    "tag": "apache6467",
+    "roles": [
+      "Event Manager",
+      "Management"
+    ]
+  },
   "485089015952048141": {
     "tag": "ameh6467",
     "roles": [
       "Community Manager",
       "Management"
+    ]
+  },
+  "893528843288215582": {
+    "tag": "davidmaso",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
     ]
   },
   "291354776044830720": {
@@ -50,28 +73,6 @@
     "tag": "rossco00",
     "roles": [
       "Save Edit Team"
-    ]
-  },
-  "204225186579480587": {
-    "tag": "apache6467",
-    "roles": [
-      "Event Manager",
-      "Management"
-    ]
-  },
-  "672844063225020446": {
-    "tag": "mr_cobra0",
-    "roles": [
-      "Event Team",
-      "Staff",
-      "Human Resources"
-    ]
-  },
-  "893528843288215582": {
-    "tag": "davidmaso",
-    "roles": [
-      "Management",
-      "Human Resources Manager"
     ]
   }
 }
