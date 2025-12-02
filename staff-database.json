@@ -1,12 +1,4 @@
 {
-  "1031144600187973642": {
-    "tag": "misterchamp",
-    "roles": [
-      "Co-Founder",
-      "Management",
-      "Graphics Design"
-    ]
-  },
   "754017832458780714": {
     "tag": "tkm6351",
     "roles": [
@@ -20,6 +12,15 @@
       "Media Manager",
       "Management",
       "Media Team",
+      "Graphics Design"
+    ]
+  },
+  "1031144600187973642": {
+    "tag": "misterchamp",
+    "roles": [
+      "Media Manager",
+      "Co-Founder",
+      "Management",
       "Graphics Design"
     ]
   },
