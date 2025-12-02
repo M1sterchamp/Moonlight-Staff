@@ -47,13 +47,6 @@
       "Management"
     ]
   },
-  "804114837910847528": {
-    "tag": "not_ze_one",
-    "roles": [
-      "CEO",
-      "Event Manager"
-    ]
-  },
   "485089015952048141": {
     "tag": "ameh6467",
     "roles": [
@@ -73,6 +66,12 @@
     "roles": [
       "Founder",
       "Web Developer"
+    ]
+  },
+  "804114837910847528": {
+    "tag": "not_ze_one",
+    "roles": [
+      "CEO"
     ]
   },
   "787293574294536193": {
