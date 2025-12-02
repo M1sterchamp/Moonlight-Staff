@@ -9,13 +9,6 @@
       "Graphics Design"
     ]
   },
-  "754017832458780714": {
-    "tag": "tkm6351",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
@@ -33,32 +26,11 @@
       "Human Resources"
     ]
   },
-  "661213956391698442": {
-    "tag": "sennehrm",
-    "roles": [
-      "Event Team",
-      "Staff"
-    ]
-  },
   "204225186579480587": {
     "tag": "apache6467",
     "roles": [
       "Event Manager",
       "Management"
-    ]
-  },
-  "804114837910847528": {
-    "tag": "not_ze_one",
-    "roles": [
-      "CEO",
-      "Event Manager"
-    ]
-  },
-  "893528843288215582": {
-    "tag": "davidmaso",
-    "roles": [
-      "Management",
-      "Human Resources Manager"
     ]
   },
   "291354776044830720": {
@@ -74,20 +46,6 @@
       "Kässbohrer Group",
       "Partner",
       "Save Edit Team"
-    ]
-  },
-  "973508841914388480": {
-    "tag": "herberttt69",
-    "roles": [
-      "Kässbohrer Group",
-      "Partner"
-    ]
-  },
-  "327490534648053760": {
-    "tag": "ambryfromhlohovec",
-    "roles": [
-      "Kässbohrer Group",
-      "Partner"
     ]
   }
 }
