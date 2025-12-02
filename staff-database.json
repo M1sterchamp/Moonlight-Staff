@@ -26,11 +26,25 @@
       "Human Resources"
     ]
   },
+  "661213956391698442": {
+    "tag": "sennehrm",
+    "roles": [
+      "Event Team",
+      "Staff"
+    ]
+  },
   "204225186579480587": {
     "tag": "apache6467",
     "roles": [
       "Event Manager",
       "Management"
+    ]
+  },
+  "804114837910847528": {
+    "tag": "not_ze_one",
+    "roles": [
+      "CEO",
+      "Event Manager"
     ]
   },
   "291354776044830720": {
