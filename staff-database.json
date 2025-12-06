@@ -1,14 +1,4 @@
 {
-  "458756998603735042": {
-    "tag": "02q.",
-    "roles": [
-      "Management",
-      "Media Manager",
-      "Media Team",
-      "Addon Team",
-      "Graphics Design"
-    ]
-  },
   "754017832458780714": {
     "tag": "tkm6351",
     "roles": [
@@ -16,49 +6,49 @@
       "Media Team"
     ]
   },
-  "1031144600187973642": {
-    "tag": "misterchamp",
+  "200000272200630272": {
+    "tag": "grayghost1976",
     "roles": [
+      "Partner"
+    ]
+  },
+  "458756998603735042": {
+    "tag": "02q.",
+    "roles": [
+      "Addon Team",
+      "Media Manager",
       "Management",
-      "Bot Developer",
-      "Co-Founder",
+      "Media Team",
       "Graphics Design"
     ]
   },
-  "661213956391698442": {
-    "tag": "sennehrm",
+  "1031144600187973642": {
+    "tag": "misterchamp",
     "roles": [
-      "Staff",
-      "Event Team"
-    ]
-  },
-  "672844063225020446": {
-    "tag": "mr_cobra0",
-    "roles": [
-      "Staff",
-      "Human Resources",
-      "Event Team"
-    ]
-  },
-  "204225186579480587": {
-    "tag": "apache6467",
-    "roles": [
+      "Co-Founder",
       "Management",
-      "Event Manager"
+      "Bot Developer",
+      "Graphics Design"
+    ]
+  },
+  "804114837910847528": {
+    "tag": "not_ze_one",
+    "roles": [
+      "CEO"
+    ]
+  },
+  "327490534648053760": {
+    "tag": "ambryfromhlohovec",
+    "roles": [
+      "Kässbohrer Group",
+      "Partner"
     ]
   },
   "485089015952048141": {
     "tag": "ameh6467",
     "roles": [
-      "Management",
-      "Community Manager"
-    ]
-  },
-  "893528843288215582": {
-    "tag": "davidmaso",
-    "roles": [
-      "Management",
-      "Human Resources Manager"
+      "Community Manager",
+      "Management"
     ]
   },
   "291354776044830720": {
@@ -68,51 +58,17 @@
       "Web Developer"
     ]
   },
-  "804114837910847528": {
-    "tag": "not_ze_one",
-    "roles": [
-      "CEO"
-    ]
-  },
-  "787293574294536193": {
-    "tag": "rossco00",
-    "roles": [
-      "Partner",
-      "Kässbohrer Group",
-      "Save Edit Team"
-    ]
-  },
-  "327490534648053760": {
-    "tag": "ambryfromhlohovec",
-    "roles": [
-      "Partner",
-      "Kässbohrer Group"
-    ]
-  },
   "1240701560896491554": {
     "tag": "wanderdegraaf",
     "roles": [
-      "Partner",
-      "Kässbohrer Group"
+      "Kässbohrer Group",
+      "Partner"
     ]
   },
   "973508841914388480": {
     "tag": "herberttt69",
     "roles": [
-      "Partner",
-      "Kässbohrer Group"
-    ]
-  },
-  "363505818215120898": {
-    "tag": "ojv5",
-    "roles": [
-      "Partner",
-      "Kässbohrer Group"
-    ]
-  },
-  "200000272200630272": {
-    "tag": "grayghost1976",
-    "roles": [
+      "Kässbohrer Group",
       "Partner"
     ]
   },
@@ -122,10 +78,54 @@
       "Partner"
     ]
   },
+  "787293574294536193": {
+    "tag": "rossco00",
+    "roles": [
+      "Kässbohrer Group",
+      "Partner",
+      "Save Edit Team"
+    ]
+  },
   "468182109098344470": {
     "tag": ".frxnk.",
     "roles": [
       "Partner"
+    ]
+  },
+  "363505818215120898": {
+    "tag": "ojv5",
+    "roles": [
+      "Kässbohrer Group",
+      "Partner"
+    ]
+  },
+  "661213956391698442": {
+    "tag": "sennehrm",
+    "roles": [
+      "Event Team",
+      "Staff"
+    ]
+  },
+  "204225186579480587": {
+    "tag": "apache6467",
+    "roles": [
+      "Event Manager",
+      "Management"
+    ]
+  },
+  "672844063225020446": {
+    "tag": "mr_cobra0",
+    "roles": [
+      "Event Team",
+      "Staff",
+      "Human Resources"
+    ]
+  },
+  "893528843288215582": {
+    "tag": "davidmaso",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
     ]
   }
 }
