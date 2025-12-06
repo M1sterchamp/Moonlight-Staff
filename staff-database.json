@@ -6,12 +6,6 @@
       "Media Team"
     ]
   },
-  "200000272200630272": {
-    "tag": "grayghost1976",
-    "roles": [
-      "Partner"
-    ]
-  },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
@@ -31,17 +25,26 @@
       "Graphics Design"
     ]
   },
-  "804114837910847528": {
-    "tag": "not_ze_one",
+  "661213956391698442": {
+    "tag": "sennehrm",
     "roles": [
-      "CEO"
+      "Event Team",
+      "Staff"
     ]
   },
-  "327490534648053760": {
-    "tag": "ambryfromhlohovec",
+  "672844063225020446": {
+    "tag": "mr_cobra0",
     "roles": [
-      "Kässbohrer Group",
-      "Partner"
+      "Event Team",
+      "Staff",
+      "Human Resources"
+    ]
+  },
+  "204225186579480587": {
+    "tag": "apache6467",
+    "roles": [
+      "Event Manager",
+      "Management"
     ]
   },
   "485089015952048141": {
@@ -51,11 +54,39 @@
       "Management"
     ]
   },
+  "893528843288215582": {
+    "tag": "davidmaso",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
+    ]
+  },
   "291354776044830720": {
     "tag": "_ashleyyy_",
     "roles": [
       "Founder",
       "Web Developer"
+    ]
+  },
+  "804114837910847528": {
+    "tag": "not_ze_one",
+    "roles": [
+      "CEO"
+    ]
+  },
+  "787293574294536193": {
+    "tag": "rossco00",
+    "roles": [
+      "Kässbohrer Group",
+      "Partner",
+      "Save Edit Team"
+    ]
+  },
+  "327490534648053760": {
+    "tag": "ambryfromhlohovec",
+    "roles": [
+      "Kässbohrer Group",
+      "Partner"
     ]
   },
   "1240701560896491554": {
@@ -72,26 +103,6 @@
       "Partner"
     ]
   },
-  "184308048590929920": {
-    "tag": "agentdaxon",
-    "roles": [
-      "Partner"
-    ]
-  },
-  "787293574294536193": {
-    "tag": "rossco00",
-    "roles": [
-      "Kässbohrer Group",
-      "Partner",
-      "Save Edit Team"
-    ]
-  },
-  "468182109098344470": {
-    "tag": ".frxnk.",
-    "roles": [
-      "Partner"
-    ]
-  },
   "363505818215120898": {
     "tag": "ojv5",
     "roles": [
@@ -99,33 +110,22 @@
       "Partner"
     ]
   },
-  "661213956391698442": {
-    "tag": "sennehrm",
+  "200000272200630272": {
+    "tag": "grayghost1976",
     "roles": [
-      "Event Team",
-      "Staff"
+      "Partner"
     ]
   },
-  "204225186579480587": {
-    "tag": "apache6467",
+  "184308048590929920": {
+    "tag": "agentdaxon",
     "roles": [
-      "Event Manager",
-      "Management"
+      "Partner"
     ]
   },
-  "672844063225020446": {
-    "tag": "mr_cobra0",
+  "468182109098344470": {
+    "tag": ".frxnk.",
     "roles": [
-      "Event Team",
-      "Staff",
-      "Human Resources"
-    ]
-  },
-  "893528843288215582": {
-    "tag": "davidmaso",
-    "roles": [
-      "Management",
-      "Human Resources Manager"
+      "Partner"
     ]
   }
 }
