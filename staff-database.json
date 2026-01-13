@@ -1,12 +1,9 @@
 {
-  "458756998603735042": {
-    "tag": "02q.",
+  "856892309088763915": {
+    "tag": "shadow_dz",
     "roles": [
-      "Management",
-      "Media Manager",
-      "Media Team",
-      "Addon Team",
-      "Graphics Design"
+      "Staff",
+      "Media Team"
     ]
   },
   "754017832458780714": {
@@ -16,39 +13,42 @@
       "Media Team"
     ]
   },
+  "458756998603735042": {
+    "tag": "02q.",
+    "roles": [
+      "Addon Team",
+      "Media Manager",
+      "Management",
+      "Media Team",
+      "Graphics Design"
+    ]
+  },
   "562679991314153472": {
     "tag": "auroric_is_cool",
     "roles": [
       "Media Team"
     ]
   },
-  "856892309088763915": {
-    "tag": "shadow_dz",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
-  "672844063225020446": {
-    "tag": "cosmic.cobra",
-    "roles": [
-      "Staff",
-      "Human Resources",
-      "Event Team"
-    ]
-  },
   "219738250892279808": {
     "tag": "akame3898",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "661213956391698442": {
     "tag": "sennehrm",
     "roles": [
+      "Event Team",
+      "Staff"
+    ]
+  },
+  "672844063225020446": {
+    "tag": "cosmic.cobra",
+    "roles": [
+      "Event Team",
       "Staff",
-      "Event Team"
+      "Human Resources"
     ]
   },
   "336411079229833220": {
@@ -71,20 +71,20 @@
       "Human Resources Manager"
     ]
   },
+  "1031144600187973642": {
+    "tag": "misterchamp",
+    "roles": [
+      "Co-Founder",
+      "Management",
+      "Bot Developer"
+    ]
+  },
   "291354776044830720": {
     "tag": "_ashleyyy_",
     "roles": [
       "Founder",
       "Management",
       "Web Developer"
-    ]
-  },
-  "1031144600187973642": {
-    "tag": "misterchamp",
-    "roles": [
-      "Management",
-      "Bot Developer",
-      "Co-Founder"
     ]
   },
   "804114837910847528": {
