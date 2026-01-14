@@ -6,24 +6,11 @@
       "Media Team"
     ]
   },
-  "336411079229833220": {
-    "tag": "fefechuu",
-    "roles": [
-      "Staff",
-      "Community Moderator"
-    ]
-  },
   "754017832458780714": {
     "tag": "tkm6351",
     "roles": [
       "Staff",
       "Media Team"
-    ]
-  },
-  "494344661968748585": {
-    "tag": "3y_",
-    "roles": [
-      "Community Moderator"
     ]
   },
   "458756998603735042": {
@@ -36,26 +23,10 @@
       "Graphics Design"
     ]
   },
-  "1031144600187973642": {
-    "tag": "misterchamp",
+  "562679991314153472": {
+    "tag": "auroric_is_cool",
     "roles": [
-      "Co-Founder",
-      "Management",
-      "Bot Developer"
-    ]
-  },
-  "804114837910847528": {
-    "tag": "not_ze_one",
-    "roles": [
-      "CEO"
-    ]
-  },
-  "291354776044830720": {
-    "tag": "_ashleyyy_",
-    "roles": [
-      "Founder",
-      "Management",
-      "Web Developer"
+      "Media Team"
     ]
   },
   "219738250892279808": {
@@ -80,10 +51,17 @@
       "Human Resources"
     ]
   },
-  "562679991314153472": {
-    "tag": "auroric_is_cool",
+  "336411079229833220": {
+    "tag": "fefechuu",
     "roles": [
-      "Media Team"
+      "Staff",
+      "Community Moderator"
+    ]
+  },
+  "494344661968748585": {
+    "tag": "3y_",
+    "roles": [
+      "Community Moderator"
     ]
   },
   "893528843288215582": {
@@ -91,6 +69,28 @@
     "roles": [
       "Management",
       "Human Resources Manager"
+    ]
+  },
+  "1031144600187973642": {
+    "tag": "misterchamp",
+    "roles": [
+      "Co-Founder",
+      "Management",
+      "Bot Developer"
+    ]
+  },
+  "291354776044830720": {
+    "tag": "_ashleyyy_",
+    "roles": [
+      "Founder",
+      "Management",
+      "Web Developer"
+    ]
+  },
+  "804114837910847528": {
+    "tag": "not_ze_one",
+    "roles": [
+      "CEO"
     ]
   }
 }
