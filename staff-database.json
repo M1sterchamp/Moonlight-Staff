@@ -16,10 +16,10 @@
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
-      "Addon Team",
-      "Media Manager",
       "Management",
+      "Media Manager",
       "Media Team",
+      "Addon Team",
       "Graphics Design"
     ]
   },
@@ -32,23 +32,23 @@
   "219738250892279808": {
     "tag": "akame3898",
     "roles": [
-      "Event Team",
-      "Staff"
+      "Staff",
+      "Event Team"
     ]
   },
   "661213956391698442": {
     "tag": "sennehrm",
     "roles": [
-      "Event Team",
-      "Staff"
+      "Staff",
+      "Event Team"
     ]
   },
   "672844063225020446": {
     "tag": "cosmic.cobra",
     "roles": [
-      "Event Team",
       "Staff",
-      "Human Resources"
+      "Human Resources",
+      "Event Team"
     ]
   },
   "494344661968748585": {
@@ -60,8 +60,8 @@
   "336411079229833220": {
     "tag": "fefechuu",
     "roles": [
-      "Community Manager",
-      "Management"
+      "Management",
+      "Community Manager"
     ]
   },
   "893528843288215582": {
@@ -74,9 +74,9 @@
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
-      "Co-Founder",
       "Management",
-      "Bot Developer"
+      "Bot Developer",
+      "Co-Founder"
     ]
   },
   "291354776044830720": {
