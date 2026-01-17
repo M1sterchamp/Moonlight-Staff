@@ -76,13 +76,6 @@
       "Management"
     ]
   },
-  "893528843288215582": {
-    "tag": "davidmaso",
-    "roles": [
-      "Management",
-      "Human Resources Manager"
-    ]
-  },
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
@@ -97,6 +90,12 @@
       "Founder",
       "Management",
       "Web Developer"
+    ]
+  },
+  "893528843288215582": {
+    "tag": "davidmaso",
+    "roles": [
+      "Management"
     ]
   },
   "804114837910847528": {
