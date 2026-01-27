@@ -1,4 +1,11 @@
 {
+  "1268030488585441321": {
+    "tag": "mik.asa.",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -13,13 +20,6 @@
       "Media Team"
     ]
   },
-  "1268030488585441321": {
-    "tag": "mik.asa.",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "562679991314153472": {
     "tag": "auroric_is_cool",
     "roles": [
@@ -29,9 +29,9 @@
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
-      "Management",
-      "Media Manager",
       "Addon Team",
+      "Media Manager",
+      "Management",
       "Community Moderator",
       "Graphics Design"
     ]
@@ -39,23 +39,23 @@
   "219738250892279808": {
     "tag": "akame3898",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "661213956391698442": {
     "tag": "sennehrm",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "672844063225020446": {
     "tag": "random.person1",
     "roles": [
+      "Event Team",
       "Staff",
-      "Human Resources",
-      "Event Team"
+      "Human Resources"
     ]
   },
   "494344661968748585": {
@@ -73,8 +73,8 @@
   "336411079229833220": {
     "tag": "fefechuu",
     "roles": [
-      "Management",
-      "Community Manager"
+      "Community Manager",
+      "Management"
     ]
   },
   "853019212174589982": {
@@ -87,9 +87,9 @@
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
+      "Co-Founder",
       "Management",
-      "Bot Developer",
-      "Co-Founder"
+      "Bot Developer"
     ]
   },
   "291354776044830720": {
