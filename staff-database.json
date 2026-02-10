@@ -13,14 +13,6 @@
       "Media Team"
     ]
   },
-  "729316403991150662": {
-    "tag": "ammiru_",
-    "roles": [
-      "Media Manager",
-      "Management",
-      "Media Team"
-    ]
-  },
   "600192768270139413": {
     "tag": "nouruton",
     "roles": [
@@ -75,6 +67,13 @@
     "roles": [
       "Staff",
       "Human Resources"
+    ]
+  },
+  "729316403991150662": {
+    "tag": "ammiru_",
+    "roles": [
+      "Media Manager",
+      "Management"
     ]
   },
   "336411079229833220": {
