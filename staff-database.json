@@ -1,10 +1,4 @@
 {
-  "600192768270139413": {
-    "tag": "nouruton",
-    "roles": [
-      "Media Team"
-    ]
-  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -21,6 +15,12 @@
   },
   "426843220526497792": {
     "tag": "itzniohe",
+    "roles": [
+      "Media Team"
+    ]
+  },
+  "600192768270139413": {
+    "tag": "nouruton",
     "roles": [
       "Media Team"
     ]
