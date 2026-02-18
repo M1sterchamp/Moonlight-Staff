@@ -34,25 +34,25 @@
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
-      "Management",
-      "Media Manager",
       "Addon Team",
+      "Media Manager",
+      "Management",
       "Community Moderator",
       "Graphics Design"
-    ]
-  },
-  "661213956391698442": {
-    "tag": "sennehrm",
-    "roles": [
-      "Staff",
-      "Event Team"
     ]
   },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
+    ]
+  },
+  "661213956391698442": {
+    "tag": "sennehrm",
+    "roles": [
+      "Event Team",
+      "Staff"
     ]
   },
   "494344661968748585": {
@@ -77,22 +77,22 @@
   "729316403991150662": {
     "tag": "ammiru_",
     "roles": [
-      "Management",
-      "Media Manager"
+      "Media Manager",
+      "Management"
     ]
   },
   "219738250892279808": {
     "tag": "akame3898",
     "roles": [
-      "Management",
-      "Event Manager"
+      "Event Manager",
+      "Management"
     ]
   },
   "336411079229833220": {
     "tag": "fefechuu",
     "roles": [
-      "Management",
-      "Community Manager"
+      "Community Manager",
+      "Management"
     ]
   },
   "853019212174589982": {
@@ -105,8 +105,8 @@
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
-      "Management",
-      "Co-Founder"
+      "Co-Founder",
+      "Management"
     ]
   },
   "291354776044830720": {
