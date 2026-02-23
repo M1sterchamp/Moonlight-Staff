@@ -115,13 +115,6 @@
       "Human Resources Manager"
     ]
   },
-  "1031144600187973642": {
-    "tag": "misterchamp",
-    "roles": [
-      "Management",
-      "Co-Founder"
-    ]
-  },
   "291354776044830720": {
     "tag": "_ashleyyy_",
     "roles": [
@@ -134,6 +127,12 @@
     "tag": "not_ze_one",
     "roles": [
       "CEO"
+    ]
+  },
+  "1031144600187973642": {
+    "tag": "misterchamp",
+    "roles": [
+      "Co-Founder"
     ]
   }
 }
