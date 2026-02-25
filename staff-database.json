@@ -74,14 +74,6 @@
       "Community Moderator"
     ]
   },
-  "1334195615160205366": {
-    "tag": "aekiai",
-    "roles": [
-      "Human Resources Manager",
-      "Staff",
-      "Human Resources"
-    ]
-  },
   "729316403991150662": {
     "tag": "ammiru_",
     "roles": [
@@ -101,6 +93,13 @@
     "roles": [
       "Management",
       "Community Manager"
+    ]
+  },
+  "1334195615160205366": {
+    "tag": "aekiai",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
     ]
   },
   "853019212174589982": {
