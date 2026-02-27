@@ -1,10 +1,4 @@
 {
-  "600192768270139413": {
-    "tag": "nouruton",
-    "roles": [
-      "Media Team"
-    ]
-  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -25,6 +19,12 @@
       "Media Team"
     ]
   },
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Media Team"
+    ]
+  },
   "562679991314153472": {
     "tag": "auroric_is_cool",
     "roles": [
@@ -41,13 +41,6 @@
       "Graphics Design"
     ]
   },
-  "661213956391698442": {
-    "tag": "sennehrm",
-    "roles": [
-      "Event Team",
-      "Staff"
-    ]
-  },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
@@ -55,16 +48,23 @@
       "Staff"
     ]
   },
-  "1434092417111425108": {
-    "tag": "elnoby_tmp",
+  "661213956391698442": {
+    "tag": "sennehrm",
     "roles": [
-      "Staff",
-      "Community Moderator"
+      "Event Team",
+      "Staff"
     ]
   },
   "494344661968748585": {
     "tag": "3y_",
     "roles": [
+      "Community Moderator"
+    ]
+  },
+  "1434092417111425108": {
+    "tag": "elnoby_tmp",
+    "roles": [
+      "Staff",
       "Community Moderator"
     ]
   },
