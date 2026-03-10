@@ -40,13 +40,6 @@
       "Media Team"
     ]
   },
-  "661213956391698442": {
-    "tag": "sennehrm",
-    "roles": [
-      "Event Team",
-      "Staff"
-    ]
-  },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
@@ -55,10 +48,11 @@
       "Human Resources"
     ]
   },
-  "494344661968748585": {
-    "tag": "3y_",
+  "661213956391698442": {
+    "tag": "sennehrm",
     "roles": [
-      "Community Moderator"
+      "Event Team",
+      "Staff"
     ]
   },
   "458756998603735042": {
@@ -67,6 +61,12 @@
       "Addon Team",
       "Media Manager",
       "Management",
+      "Community Moderator"
+    ]
+  },
+  "494344661968748585": {
+    "tag": "3y_",
+    "roles": [
       "Community Moderator"
     ]
   },
