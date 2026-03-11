@@ -1,4 +1,11 @@
 {
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -27,13 +34,6 @@
       "Media Team"
     ]
   },
-  "600192768270139413": {
-    "tag": "nouruton",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "562679991314153472": {
     "tag": "auroric_is_cool",
     "roles": [
@@ -55,6 +55,14 @@
       "Staff"
     ]
   },
+  "1434092417111425108": {
+    "tag": "elnoby_tmp",
+    "roles": [
+      "Staff",
+      "Human Resources",
+      "Community Moderator"
+    ]
+  },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
@@ -67,14 +75,6 @@
   "494344661968748585": {
     "tag": "3y_",
     "roles": [
-      "Community Moderator"
-    ]
-  },
-  "1434092417111425108": {
-    "tag": "elnoby_tmp",
-    "roles": [
-      "Staff",
-      "Human Resources",
       "Community Moderator"
     ]
   },
