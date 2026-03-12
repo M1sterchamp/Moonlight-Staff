@@ -1,11 +1,4 @@
 {
-  "600192768270139413": {
-    "tag": "nouruton",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -34,17 +27,17 @@
       "Media Team"
     ]
   },
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
   "562679991314153472": {
     "tag": "auroric_is_cool",
     "roles": [
       "Media Team"
-    ]
-  },
-  "661213956391698442": {
-    "tag": "sennehrm",
-    "roles": [
-      "Event Team",
-      "Staff"
     ]
   },
   "1170949991548858411": {
@@ -53,6 +46,13 @@
       "Event Team",
       "Staff",
       "Human Resources"
+    ]
+  },
+  "661213956391698442": {
+    "tag": "sennehrm",
+    "roles": [
+      "Event Team",
+      "Staff"
     ]
   },
   "494344661968748585": {
