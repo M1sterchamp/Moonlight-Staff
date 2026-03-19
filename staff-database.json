@@ -1,9 +1,10 @@
 {
-  "600192768270139413": {
-    "tag": "nouruton",
+  "856995217231314984": {
+    "tag": "whoiskerem",
     "roles": [
       "Staff",
-      "Media Team"
+      "Media Team",
+      "Graphics Design"
     ]
   },
   "856892309088763915": {
@@ -20,17 +21,16 @@
       "Media Team"
     ]
   },
-  "856995217231314984": {
-    "tag": "whoiskerem",
-    "roles": [
-      "Staff",
-      "Media Team",
-      "Graphics Design"
-    ]
-  },
   "426843220526497792": {
     "tag": "itzniohe",
     "roles": [
+      "Media Team"
+    ]
+  },
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Staff",
       "Media Team"
     ]
   },
