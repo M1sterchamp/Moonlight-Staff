@@ -1,4 +1,11 @@
 {
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -27,24 +34,10 @@
       "Media Team"
     ]
   },
-  "600192768270139413": {
-    "tag": "nouruton",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "562679991314153472": {
     "tag": "auroric_is_cool",
     "roles": [
       "Media Team"
-    ]
-  },
-  "661213956391698442": {
-    "tag": "sennehrm",
-    "roles": [
-      "Event Team",
-      "Staff"
     ]
   },
   "1170949991548858411": {
@@ -55,11 +48,27 @@
       "Human Resources"
     ]
   },
+  "661213956391698442": {
+    "tag": "sennehrm",
+    "roles": [
+      "Event Team",
+      "Staff"
+    ]
+  },
   "335759126569287681": {
     "tag": "mikepafc",
     "roles": [
       "Event Team",
       "Staff"
+    ]
+  },
+  "458756998603735042": {
+    "tag": "02q.",
+    "roles": [
+      "Addon Team",
+      "Media Manager",
+      "Management",
+      "Community Moderator"
     ]
   },
   "618522616721834004": {
@@ -72,15 +81,6 @@
   "494344661968748585": {
     "tag": "3y_",
     "roles": [
-      "Community Moderator"
-    ]
-  },
-  "458756998603735042": {
-    "tag": "02q.",
-    "roles": [
-      "Addon Team",
-      "Media Manager",
-      "Management",
       "Community Moderator"
     ]
   },
@@ -125,15 +125,15 @@
       "Management"
     ]
   },
-  "752132512272351239": {
-    "tag": "omernacar",
+  "219738250892279808": {
+    "tag": "akame3898",
     "roles": [
       "Event Manager",
       "Management"
     ]
   },
-  "219738250892279808": {
-    "tag": "akame3898",
+  "752132512272351239": {
+    "tag": "omernacar",
     "roles": [
       "Event Manager",
       "Management"
