@@ -40,6 +40,13 @@
       "Media Team"
     ]
   },
+  "661213956391698442": {
+    "tag": "sennehrm",
+    "roles": [
+      "Event Team",
+      "Staff"
+    ]
+  },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
@@ -48,18 +55,20 @@
       "Human Resources"
     ]
   },
-  "661213956391698442": {
-    "tag": "sennehrm",
-    "roles": [
-      "Event Team",
-      "Staff"
-    ]
-  },
   "335759126569287681": {
     "tag": "mikepafc",
     "roles": [
       "Event Team",
       "Staff"
+    ]
+  },
+  "458756998603735042": {
+    "tag": "02q.",
+    "roles": [
+      "Addon Team",
+      "Media Manager",
+      "Management",
+      "Community Moderator"
     ]
   },
   "618522616721834004": {
@@ -72,15 +81,6 @@
   "494344661968748585": {
     "tag": "3y_",
     "roles": [
-      "Community Moderator"
-    ]
-  },
-  "458756998603735042": {
-    "tag": "02q.",
-    "roles": [
-      "Addon Team",
-      "Media Manager",
-      "Management",
       "Community Moderator"
     ]
   },
