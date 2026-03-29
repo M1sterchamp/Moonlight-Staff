@@ -48,6 +48,14 @@
       "Media Team"
     ]
   },
+  "648865123963764737": {
+    "tag": "bradley96.",
+    "roles": [
+      "Event Team",
+      "Staff",
+      "Human Resources"
+    ]
+  },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
@@ -63,14 +71,6 @@
       "Staff"
     ]
   },
-  "648865123963764737": {
-    "tag": "bradley96.",
-    "roles": [
-      "Event Team",
-      "Staff",
-      "Human Resources"
-    ]
-  },
   "288034688952565760": {
     "tag": "gremlintr",
     "roles": [
@@ -83,14 +83,6 @@
     "roles": [
       "Event Team",
       "Staff",
-      "Community Moderator"
-    ]
-  },
-  "1434092417111425108": {
-    "tag": "elnoby_tmp",
-    "roles": [
-      "Staff",
-      "Human Resources",
       "Community Moderator"
     ]
   },
@@ -113,6 +105,14 @@
       "Addon Team",
       "Media Manager",
       "Management",
+      "Community Moderator"
+    ]
+  },
+  "1434092417111425108": {
+    "tag": "elnoby_tmp",
+    "roles": [
+      "Staff",
+      "Human Resources",
       "Community Moderator"
     ]
   },
