@@ -1,4 +1,11 @@
 {
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -32,13 +39,6 @@
     "roles": [
       "Addon Manager",
       "Management",
-      "Media Team"
-    ]
-  },
-  "600192768270139413": {
-    "tag": "nouruton",
-    "roles": [
-      "Staff",
       "Media Team"
     ]
   },
