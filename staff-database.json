@@ -37,8 +37,8 @@
   "1003765494140129300": {
     "tag": "fluffy677",
     "roles": [
-      "Addon Manager",
       "Management",
+      "Addon Manager",
       "Media Team"
     ]
   },
@@ -55,41 +55,41 @@
       "Media Team"
     ]
   },
+  "505358776778489858": {
+    "tag": "orchestrion_thetrain",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
-      "Event Team",
       "Staff",
-      "Human Resources"
+      "Human Resources",
+      "Event Team"
     ]
   },
   "1240701560896491554": {
     "tag": "wanderdegraaf",
     "roles": [
-      "Event Team",
-      "Staff"
-    ]
-  },
-  "505358776778489858": {
-    "tag": "orchestrion_thetrain",
-    "roles": [
-      "Event Team",
-      "Staff"
+      "Staff",
+      "Event Team"
     ]
   },
   "648865123963764737": {
     "tag": "bradley96.",
     "roles": [
-      "Event Team",
       "Staff",
-      "Human Resources"
+      "Human Resources",
+      "Event Team"
     ]
   },
   "288034688952565760": {
     "tag": "gremlintr",
     "roles": [
-      "Event Team",
-      "Staff"
+      "Staff",
+      "Event Team"
     ]
   },
   "618522616721834004": {
@@ -108,9 +108,9 @@
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
-      "Addon Team",
-      "Media Manager",
       "Management",
+      "Media Manager",
+      "Addon Team",
       "Community Moderator"
     ]
   },
@@ -125,8 +125,8 @@
   "752132512272351239": {
     "tag": "omernacar",
     "roles": [
-      "Event Manager",
       "Management",
+      "Event Manager",
       "Community Moderator"
     ]
   },
@@ -159,22 +159,22 @@
   "363505818215120898": {
     "tag": "ojv5",
     "roles": [
-      "Addon Team",
-      "Staff"
+      "Staff",
+      "Addon Team"
     ]
   },
   "729316403991150662": {
     "tag": "shufflie",
     "roles": [
-      "Media Manager",
-      "Management"
+      "Management",
+      "Media Manager"
     ]
   },
   "219738250892279808": {
     "tag": "akame3898",
     "roles": [
-      "Event Manager",
-      "Management"
+      "Management",
+      "Event Manager"
     ]
   },
   "1334195615160205366": {
