@@ -37,8 +37,8 @@
   "1003765494140129300": {
     "tag": "fluffy677",
     "roles": [
-      "Management",
       "Addon Manager",
+      "Management",
       "Media Team"
     ]
   },
@@ -55,41 +55,41 @@
       "Media Team"
     ]
   },
-  "505358776778489858": {
-    "tag": "orchestrion_thetrain",
+  "648865123963764737": {
+    "tag": "bradley96.",
     "roles": [
+      "Event Team",
       "Staff",
-      "Event Team"
+      "Human Resources"
     ]
   },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
+      "Event Team",
       "Staff",
-      "Human Resources",
-      "Event Team"
+      "Human Resources"
     ]
   },
   "1240701560896491554": {
     "tag": "wanderdegraaf",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
-  "648865123963764737": {
-    "tag": "bradley96.",
+  "505358776778489858": {
+    "tag": "orchestrion_thetrain",
     "roles": [
-      "Staff",
-      "Human Resources",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "288034688952565760": {
     "tag": "gremlintr",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "618522616721834004": {
@@ -99,18 +99,18 @@
       "Community Moderator"
     ]
   },
-  "494344661968748585": {
-    "tag": "3y_",
-    "roles": [
-      "Community Moderator"
-    ]
-  },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
-      "Management",
-      "Media Manager",
       "Addon Team",
+      "Media Manager",
+      "Management",
+      "Community Moderator"
+    ]
+  },
+  "494344661968748585": {
+    "tag": "3y_",
+    "roles": [
       "Community Moderator"
     ]
   },
@@ -125,8 +125,8 @@
   "752132512272351239": {
     "tag": "omernacar",
     "roles": [
-      "Management",
       "Event Manager",
+      "Management",
       "Community Moderator"
     ]
   },
@@ -159,22 +159,22 @@
   "363505818215120898": {
     "tag": "ojv5",
     "roles": [
-      "Staff",
-      "Addon Team"
+      "Addon Team",
+      "Staff"
     ]
   },
   "729316403991150662": {
     "tag": "shufflie",
     "roles": [
-      "Management",
-      "Media Manager"
+      "Media Manager",
+      "Management"
     ]
   },
   "219738250892279808": {
     "tag": "akame3898",
     "roles": [
-      "Management",
-      "Event Manager"
+      "Event Manager",
+      "Management"
     ]
   },
   "1334195615160205366": {
