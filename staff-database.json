@@ -179,6 +179,13 @@
       "Management"
     ]
   },
+  "1031144600187973642": {
+    "tag": "misterchamp",
+    "roles": [
+      "Co-Founder",
+      "Human Resources Manager"
+    ]
+  },
   "1334195615160205366": {
     "tag": "aekiai",
     "roles": [
@@ -206,12 +213,6 @@
     "roles": [
       "CEO",
       "Save Edit Team"
-    ]
-  },
-  "1031144600187973642": {
-    "tag": "misterchamp",
-    "roles": [
-      "Co-Founder"
     ]
   }
 }
