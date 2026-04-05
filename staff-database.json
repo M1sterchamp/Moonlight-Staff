@@ -1,12 +1,4 @@
 {
-  "856995217231314984": {
-    "tag": "whoiskerem",
-    "roles": [
-      "Staff",
-      "Media Team",
-      "Graphics Design"
-    ]
-  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -26,6 +18,14 @@
     "roles": [
       "Staff",
       "Media Team"
+    ]
+  },
+  "856995217231314984": {
+    "tag": "whoiskerem",
+    "roles": [
+      "Staff",
+      "Media Team",
+      "Graphics Design"
     ]
   },
   "426843220526497792": {
@@ -57,21 +57,6 @@
       "Media Team"
     ]
   },
-  "648865123963764737": {
-    "tag": "bradley96.",
-    "roles": [
-      "Event Team",
-      "Staff",
-      "Human Resources"
-    ]
-  },
-  "505358776778489858": {
-    "tag": "orchestrion_thetrain",
-    "roles": [
-      "Event Team",
-      "Staff"
-    ]
-  },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
@@ -85,6 +70,21 @@
     "roles": [
       "Event Team",
       "Staff"
+    ]
+  },
+  "505358776778489858": {
+    "tag": "orchestrion_thetrain",
+    "roles": [
+      "Event Team",
+      "Staff"
+    ]
+  },
+  "648865123963764737": {
+    "tag": "bradley96.",
+    "roles": [
+      "Event Team",
+      "Staff",
+      "Human Resources"
     ]
   },
   "288034688952565760": {
@@ -101,18 +101,18 @@
       "Community Moderator"
     ]
   },
+  "494344661968748585": {
+    "tag": "3y_",
+    "roles": [
+      "Community Moderator"
+    ]
+  },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
       "Addon Team",
       "Media Manager",
       "Management",
-      "Community Moderator"
-    ]
-  },
-  "494344661968748585": {
-    "tag": "3y_",
-    "roles": [
       "Community Moderator"
     ]
   },
