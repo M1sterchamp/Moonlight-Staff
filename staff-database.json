@@ -114,15 +114,6 @@
       "Community Moderator"
     ]
   },
-  "458756998603735042": {
-    "tag": "02q.",
-    "roles": [
-      "Addon Team",
-      "Media Manager",
-      "Management",
-      "Community Moderator"
-    ]
-  },
   "1434092417111425108": {
     "tag": "elnoby_tmp",
     "roles": [
@@ -181,6 +172,14 @@
   "729316403991150662": {
     "tag": "shufflie",
     "roles": [
+      "Media Manager",
+      "Management"
+    ]
+  },
+  "458756998603735042": {
+    "tag": "02q.",
+    "roles": [
+      "Addon Team",
       "Media Manager",
       "Management"
     ]
