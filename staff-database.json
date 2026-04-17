@@ -1,13 +1,4 @@
 {
-  "600192768270139413": {
-    "tag": "nouruton",
-    "roles": [
-      "Staff",
-      "Community Manager",
-      "Management",
-      "Media Team"
-    ]
-  },
   "856892309088763915": {
     "tag": "shadow_dz",
     "roles": [
@@ -47,6 +38,15 @@
     "tag": "fluffy677",
     "roles": [
       "Addon Manager",
+      "Management",
+      "Media Team"
+    ]
+  },
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Staff",
+      "Community Manager",
       "Management",
       "Media Team"
     ]
@@ -169,17 +169,17 @@
       "Staff"
     ]
   },
-  "729316403991150662": {
-    "tag": "shufflie",
-    "roles": [
-      "Media Manager",
-      "Management"
-    ]
-  },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
       "Addon Team",
+      "Media Manager",
+      "Management"
+    ]
+  },
+  "729316403991150662": {
+    "tag": "shufflie",
+    "roles": [
       "Media Manager",
       "Management"
     ]
