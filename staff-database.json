@@ -31,58 +31,58 @@
   "752132512272351239": {
     "tag": "omernacar",
     "roles": [
-      "Management",
       "Event Manager",
+      "Management",
       "Community Moderator"
     ]
   },
   "219738250892279808": {
     "tag": "akame3898",
     "roles": [
-      "Management",
-      "Event Manager"
+      "Event Manager",
+      "Management"
     ]
   },
   "600192768270139413": {
     "tag": "nouruton",
     "roles": [
-      "Management",
-      "Community Manager",
       "Staff",
+      "Community Manager",
+      "Management",
       "Media Team"
     ]
   },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
-      "Management",
-      "Media Manager",
+      "Graphic Design Manager",
       "Addon Team",
-      "Graphic Design Manager"
+      "Media Manager",
+      "Management"
     ]
   },
   "729316403991150662": {
     "tag": "shufflie",
     "roles": [
-      "Management",
-      "Media Manager"
+      "Media Manager",
+      "Management"
     ]
   },
   "1003765494140129300": {
     "tag": "fluffy677",
     "roles": [
-      "Management",
       "Addon Manager",
+      "Management",
       "Media Team"
     ]
   },
   "1170949991548858411": {
     "tag": "kibby.lgbt",
     "roles": [
-      "Staff",
-      "Human Resources",
       "Event Team",
-      "Event Assistant"
+      "Event Assistant",
+      "Staff",
+      "Human Resources"
     ]
   },
   "773470593466368011": {
@@ -103,9 +103,9 @@
   "648865123963764737": {
     "tag": "bradley96.",
     "roles": [
+      "Event Team",
       "Staff",
-      "Human Resources",
-      "Event Team"
+      "Human Resources"
     ]
   },
   "1293585418603728897": {
@@ -118,22 +118,22 @@
   "1240701560896491554": {
     "tag": "wanderdegraaf",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "505358776778489858": {
     "tag": "orchestrion_thetrain",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "288034688952565760": {
     "tag": "gremlintr",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "856995217231314984": {
@@ -180,8 +180,8 @@
   "363505818215120898": {
     "tag": "ojv5",
     "roles": [
-      "Staff",
-      "Addon Team"
+      "Addon Team",
+      "Staff"
     ]
   },
   "186860895790563328": {
