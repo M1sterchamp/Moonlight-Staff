@@ -114,15 +114,15 @@
       "Human Resources"
     ]
   },
-  "505358776778489858": {
-    "tag": "orchestrion_thetrain",
+  "1240701560896491554": {
+    "tag": "wanderdegraaf",
     "roles": [
       "Event Team",
       "Staff"
     ]
   },
-  "1240701560896491554": {
-    "tag": "wanderdegraaf",
+  "505358776778489858": {
+    "tag": "orchestrion_thetrain",
     "roles": [
       "Event Team",
       "Staff"
@@ -143,15 +143,15 @@
       "Graphics Design"
     ]
   },
-  "334094270397153280": {
-    "tag": "6lb_",
+  "856892309088763915": {
+    "tag": "shadow_dz",
     "roles": [
       "Staff",
       "Media Team"
     ]
   },
-  "856892309088763915": {
-    "tag": "shadow_dz",
+  "334094270397153280": {
+    "tag": "6lb_",
     "roles": [
       "Staff",
       "Media Team"
@@ -183,13 +183,6 @@
       "Staff"
     ]
   },
-  "242377136646782987": {
-    "tag": "firefly5050",
-    "roles": [
-      "Staff",
-      "Community Moderator"
-    ]
-  },
   "186860895790563328": {
     "tag": "byss",
     "roles": [
@@ -206,6 +199,13 @@
   "468182109098344470": {
     "tag": ".frxnk.",
     "roles": [
+      "Community Moderator"
+    ]
+  },
+  "242377136646782987": {
+    "tag": "firefly5050",
+    "roles": [
+      "Staff",
       "Community Moderator"
     ]
   },
