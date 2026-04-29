@@ -76,15 +76,6 @@
       "Media Team"
     ]
   },
-  "1170949991548858411": {
-    "tag": "kibby.lgbt",
-    "roles": [
-      "Event Team",
-      "Event Assistant",
-      "Staff",
-      "Human Resources"
-    ]
-  },
   "773470593466368011": {
     "tag": "chleba.corp",
     "roles": [
@@ -113,6 +104,13 @@
     "roles": [
       "Staff",
       "Human Resources"
+    ]
+  },
+  "1170949991548858411": {
+    "tag": "kibby.lgbt",
+    "roles": [
+      "Event Team",
+      "Staff"
     ]
   },
   "1240701560896491554": {
