@@ -14,27 +14,34 @@
       "Developer"
     ]
   },
+  "1334195615160205366": {
+    "tag": "aekiai",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
+    ]
+  },
   "600192768270139413": {
     "tag": "nouruton",
     "roles": [
-      "Staff",
-      "Community Manager",
       "Management",
+      "Community Manager",
+      "Staff",
       "Media Team"
     ]
   },
   "729316403991150662": {
     "tag": "shufflie",
     "roles": [
-      "Media Manager",
-      "Management"
+      "Management",
+      "Media Manager"
     ]
   },
   "1003765494140129300": {
     "tag": "fluffy677",
     "roles": [
-      "Addon Manager",
       "Management",
+      "Addon Manager",
       "Media Team"
     ]
   },
@@ -48,9 +55,9 @@
   "334094270397153280": {
     "tag": "6lb_",
     "roles": [
-      "Event Team",
       "Staff",
-      "Media Team"
+      "Media Team",
+      "Event Team"
     ]
   },
   "856995217231314984": {
