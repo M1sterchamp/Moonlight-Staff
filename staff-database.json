@@ -2,6 +2,7 @@
   "291354776044830720": {
     "tag": "_ashleyyy_",
     "roles": [
+      "Leadership",
       "Founder",
       "Management",
       "Web Developer"
@@ -10,6 +11,7 @@
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
+      "Leadership",
       "Co-Founder",
       "Developer"
     ]
@@ -37,48 +39,48 @@
   "752132512272351239": {
     "tag": "omernacar",
     "roles": [
-      "Management",
       "Event Manager",
+      "Management",
       "Community Moderator"
     ]
   },
   "219738250892279808": {
     "tag": "akame3898",
     "roles": [
-      "Management",
-      "Event Manager"
+      "Event Manager",
+      "Management"
     ]
   },
   "600192768270139413": {
     "tag": "nouruton",
     "roles": [
-      "Management",
-      "Community Manager",
       "Staff",
-      "Media Team"
-    ]
-  },
-  "458756998603735042": {
-    "tag": "02q.",
-    "roles": [
+      "Community Manager",
       "Management",
-      "Media Manager",
-      "Addon Team",
-      "Graphic Design Manager"
+      "Media Team"
     ]
   },
   "729316403991150662": {
     "tag": "shufflie",
     "roles": [
-      "Management",
-      "Media Manager"
+      "Media Manager",
+      "Management"
+    ]
+  },
+  "458756998603735042": {
+    "tag": "02q.",
+    "roles": [
+      "Graphic Design Manager",
+      "Addon Team",
+      "Media Manager",
+      "Management"
     ]
   },
   "1003765494140129300": {
     "tag": "fluffy677",
     "roles": [
-      "Management",
       "Addon Manager",
+      "Management",
       "Media Team"
     ]
   },
@@ -107,9 +109,9 @@
   "648865123963764737": {
     "tag": "bradley96.",
     "roles": [
+      "Event Team",
       "Staff",
-      "Human Resources",
-      "Event Team"
+      "Human Resources"
     ]
   },
   "751753668390420520": {
@@ -122,8 +124,8 @@
   "288034688952565760": {
     "tag": "gremlintr",
     "roles": [
-      "Staff",
-      "Event Team"
+      "Event Team",
+      "Staff"
     ]
   },
   "856995217231314984": {
@@ -156,8 +158,8 @@
   "363505818215120898": {
     "tag": "ojv5",
     "roles": [
-      "Staff",
-      "Addon Team"
+      "Addon Team",
+      "Staff"
     ]
   },
   "186860895790563328": {
