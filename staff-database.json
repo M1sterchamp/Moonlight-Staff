@@ -7,14 +7,6 @@
       "Web Developer"
     ]
   },
-  "1031144600187973642": {
-    "tag": "misterchamp",
-    "roles": [
-      "Leadership",
-      "Co-Founder",
-      "Developer"
-    ]
-  },
   "1321123151114928191": {
     "tag": "davelondon21",
     "roles": [
@@ -81,6 +73,13 @@
       "Addon Manager",
       "Management",
       "Media Team"
+    ]
+  },
+  "1031144600187973642": {
+    "tag": "misterchamp",
+    "roles": [
+      "Leadership",
+      "Developer"
     ]
   },
   "773470593466368011": {
