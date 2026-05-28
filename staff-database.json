@@ -2,9 +2,9 @@
   "291354776044830720": {
     "tag": "_ashleyyy_",
     "roles": [
-      "Leadership",
       "Founder",
-      "Web Developer"
+      "Web Developer",
+      "Leadership"
     ]
   },
   "1031144600187973642": {
@@ -52,17 +52,17 @@
   "600192768270139413": {
     "tag": "nouruton",
     "roles": [
-      "Staff",
       "Community Manager",
-      "Management",
-      "Media Team"
+      "Staff",
+      "Media Team",
+      "Management"
     ]
   },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
-      "Graphic Design Manager",
       "Addon Team",
+      "Graphic Design Manager",
       "Media Manager",
       "Management"
     ]
@@ -77,9 +77,9 @@
   "1003765494140129300": {
     "tag": "fluffy677",
     "roles": [
+      "Media Team",
       "Addon Manager",
-      "Management",
-      "Media Team"
+      "Management"
     ]
   },
   "773470593466368011": {
@@ -100,15 +100,15 @@
     "tag": "elnoby_tmp",
     "roles": [
       "Staff",
-      "Human Resources",
-      "Community Moderator"
+      "Community Moderator",
+      "Human Resources"
     ]
   },
   "648865123963764737": {
     "tag": "bradley96.",
     "roles": [
-      "Event Team",
       "Staff",
+      "Event Team",
       "Human Resources"
     ]
   },
@@ -122,23 +122,23 @@
   "929830758137348138": {
     "tag": "gummy.__",
     "roles": [
-      "Event Team",
-      "Staff"
+      "Staff",
+      "Event Team"
     ]
   },
   "774565147217625099": {
     "tag": "ik1znw",
     "roles": [
-      "Media Team",
-      "Graphics Design"
+      "Graphics Design",
+      "Media Team"
     ]
   },
   "856995217231314984": {
     "tag": "whoiskerem",
     "roles": [
       "Staff",
-      "Media Team",
-      "Graphics Design"
+      "Graphics Design",
+      "Media Team"
     ]
   },
   "754017832458780714": {
@@ -163,8 +163,8 @@
   "363505818215120898": {
     "tag": "ojv5",
     "roles": [
-      "Addon Team",
-      "Staff"
+      "Staff",
+      "Addon Team"
     ]
   },
   "186860895790563328": {
