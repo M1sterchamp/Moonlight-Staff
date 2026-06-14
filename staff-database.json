@@ -140,13 +140,6 @@
       "Media Team"
     ]
   },
-  "1204592862814281778": {
-    "tag": "lapizbyte",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "562679991314153472": {
     "tag": "https.auroiscool",
     "roles": [
@@ -202,6 +195,12 @@
     "tag": "rb1988",
     "roles": [
       "Management"
+    ]
+  },
+  "1204592862814281778": {
+    "tag": "lapizbyte",
+    "roles": [
+      "Staff"
     ]
   }
 }
