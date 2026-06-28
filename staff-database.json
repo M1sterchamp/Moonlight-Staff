@@ -130,13 +130,6 @@
       "Media Team"
     ]
   },
-  "754017832458780714": {
-    "tag": "tkm6351",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "426843220526497792": {
     "tag": "itzniohe",
     "roles": [
@@ -186,6 +179,12 @@
     "tag": "stappat",
     "roles": [
       "Management"
+    ]
+  },
+  "754017832458780714": {
+    "tag": "tkm6351",
+    "roles": [
+      "Staff"
     ]
   }
 }
