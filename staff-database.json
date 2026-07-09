@@ -156,13 +156,6 @@
       "Addon Team"
     ]
   },
-  "186860895790563328": {
-    "tag": "byss",
-    "roles": [
-      "Staff",
-      "Community Moderator"
-    ]
-  },
   "468182109098344470": {
     "tag": ".frxnk.",
     "roles": [
@@ -186,6 +179,12 @@
     "tag": "stappat",
     "roles": [
       "Management"
+    ]
+  },
+  "186860895790563328": {
+    "tag": "byss",
+    "roles": [
+      "Staff"
     ]
   }
 }
