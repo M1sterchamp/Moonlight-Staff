@@ -116,14 +116,6 @@
       "Human Resources"
     ]
   },
-  "929830758137348138": {
-    "tag": "gummy.__",
-    "roles": [
-      "Staff",
-      "Event Team",
-      "Management"
-    ]
-  },
   "484771446674161668": {
     "tag": "xmythicalgirlx",
     "roles": [
@@ -136,6 +128,14 @@
     "roles": [
       "Staff",
       "Event Team"
+    ]
+  },
+  "929830758137348138": {
+    "tag": "gummy.__",
+    "roles": [
+      "Staff",
+      "Event Team",
+      "Management"
     ]
   },
   "659628946958188556": {
@@ -171,13 +171,6 @@
       "Addon Team"
     ]
   },
-  "1452062012577419437": {
-    "tag": "nailz_93",
-    "roles": [
-      "Staff",
-      "Community Moderator"
-    ]
-  },
   "468182109098344470": {
     "tag": ".frxnk.",
     "roles": [
@@ -194,6 +187,13 @@
   "675362968271060992": {
     "tag": "_phantomshade",
     "roles": [
+      "Community Moderator"
+    ]
+  },
+  "1452062012577419437": {
+    "tag": "nailz_93",
+    "roles": [
+      "Staff",
       "Community Moderator"
     ]
   },
