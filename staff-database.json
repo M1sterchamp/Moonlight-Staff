@@ -86,15 +86,23 @@
     "tag": "bradley96.",
     "roles": [
       "Staff",
-      "Event Team",
       "Event Assistant",
-      "Human Resources"
+      "Human Resources",
+      "Event Team"
     ]
   },
   "773470593466368011": {
     "tag": "chleba.corp",
     "roles": [
       "Developer"
+    ]
+  },
+  "1452062012577419437": {
+    "tag": "nailz_93",
+    "roles": [
+      "Staff",
+      "Community Moderator",
+      "Human Resources"
     ]
   },
   "170078904403492864": {
@@ -112,12 +120,12 @@
       "Human Resources"
     ]
   },
-  "1452062012577419437": {
-    "tag": "nailz_93",
+  "929830758137348138": {
+    "tag": "gummy.__",
     "roles": [
       "Staff",
-      "Community Moderator",
-      "Human Resources"
+      "Event Team",
+      "Management"
     ]
   },
   "484771446674161668": {
@@ -125,14 +133,6 @@
     "roles": [
       "Staff",
       "Event Team"
-    ]
-  },
-  "929830758137348138": {
-    "tag": "gummy.__",
-    "roles": [
-      "Staff",
-      "Event Team",
-      "Management"
     ]
   },
   "659628946958188556": {
