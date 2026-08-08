@@ -10,9 +10,9 @@
   "1031144600187973642": {
     "tag": "misterchamp",
     "roles": [
-      "Local Mod Team",
       "Lead Developer",
-      "Management"
+      "Management",
+      "Local Mod Team"
     ]
   },
   "507039790756265984": {
@@ -96,6 +96,14 @@
       "Developer"
     ]
   },
+  "1452062012577419437": {
+    "tag": "nailz_93",
+    "roles": [
+      "Staff",
+      "Community Moderator",
+      "Human Resources"
+    ]
+  },
   "170078904403492864": {
     "tag": "velocityshadow",
     "roles": [
@@ -108,14 +116,6 @@
     "roles": [
       "Staff",
       "Event Team",
-      "Human Resources"
-    ]
-  },
-  "1452062012577419437": {
-    "tag": "nailz_93",
-    "roles": [
-      "Staff",
-      "Community Moderator",
       "Human Resources"
     ]
   },
@@ -148,8 +148,8 @@
       "Media Team"
     ]
   },
-  "423002528184139790": {
-    "tag": "pootis01",
+  "261431342875541505": {
+    "tag": "wufee",
     "roles": [
       "Staff",
       "Media Team"
@@ -162,15 +162,15 @@
       "Media Team"
     ]
   },
-  "1246385414974214175": {
-    "tag": "starxvi.",
+  "423002528184139790": {
+    "tag": "pootis01",
     "roles": [
       "Staff",
       "Media Team"
     ]
   },
-  "261431342875541505": {
-    "tag": "wufee",
+  "1246385414974214175": {
+    "tag": "starxvi.",
     "roles": [
       "Staff",
       "Media Team"
