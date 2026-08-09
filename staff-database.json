@@ -148,13 +148,6 @@
       "Media Team"
     ]
   },
-  "423002528184139790": {
-    "tag": "pootis01",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "261431342875541505": {
     "tag": "wufee",
     "roles": [
@@ -164,6 +157,13 @@
   },
   "1125047721863163974": {
     "tag": "cardigasobtrr",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
+  "423002528184139790": {
+    "tag": "pootis01",
     "roles": [
       "Staff",
       "Media Team"
