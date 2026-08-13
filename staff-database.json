@@ -104,6 +104,13 @@
       "Human Resources"
     ]
   },
+  "170078904403492864": {
+    "tag": "velocityshadow",
+    "roles": [
+      "Staff",
+      "Human Resources"
+    ]
+  },
   "502535459390357517": {
     "tag": "galandt",
     "roles": [
@@ -112,11 +119,12 @@
       "Human Resources"
     ]
   },
-  "170078904403492864": {
-    "tag": "velocityshadow",
+  "929830758137348138": {
+    "tag": "gummy.__",
     "roles": [
       "Staff",
-      "Human Resources"
+      "Event Team",
+      "Management"
     ]
   },
   "484771446674161668": {
@@ -124,14 +132,6 @@
     "roles": [
       "Staff",
       "Event Team"
-    ]
-  },
-  "929830758137348138": {
-    "tag": "gummy.__",
-    "roles": [
-      "Staff",
-      "Event Team",
-      "Management"
     ]
   },
   "659628946958188556": {
@@ -148,15 +148,8 @@
       "Media Team"
     ]
   },
-  "1125047721863163974": {
-    "tag": "cardigasobtrr",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
-  "423002528184139790": {
-    "tag": "pootis01",
+  "261431342875541505": {
+    "tag": "wufee",
     "roles": [
       "Staff",
       "Media Team"
@@ -169,8 +162,15 @@
       "Media Team"
     ]
   },
-  "261431342875541505": {
-    "tag": "wufee",
+  "1125047721863163974": {
+    "tag": "cardigasobtrr",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
+  "423002528184139790": {
+    "tag": "pootis01",
     "roles": [
       "Staff",
       "Media Team"
