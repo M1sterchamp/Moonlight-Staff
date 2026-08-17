@@ -113,14 +113,6 @@
       "Human Resources"
     ]
   },
-  "929830758137348138": {
-    "tag": "gummy.__",
-    "roles": [
-      "Staff",
-      "Event Team",
-      "Management"
-    ]
-  },
   "309440429890338818": {
     "tag": "burakokur_",
     "roles": [
@@ -133,6 +125,14 @@
     "roles": [
       "Staff",
       "Event Team"
+    ]
+  },
+  "929830758137348138": {
+    "tag": "gummy.__",
+    "roles": [
+      "Staff",
+      "Event Team",
+      "Management"
     ]
   },
   "659628946958188556": {
@@ -190,16 +190,16 @@
       "Community Moderator"
     ]
   },
-  "468182109098344470": {
-    "tag": ".frxnk.",
-    "roles": [
-      "Community Moderator"
-    ]
-  },
   "242377136646782987": {
     "tag": "firefly5050",
     "roles": [
       "Staff",
+      "Community Moderator"
+    ]
+  },
+  "468182109098344470": {
+    "tag": ".frxnk.",
+    "roles": [
       "Community Moderator"
     ]
   },
