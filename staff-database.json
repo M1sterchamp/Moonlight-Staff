@@ -113,6 +113,14 @@
       "Human Resources"
     ]
   },
+  "929830758137348138": {
+    "tag": "gummy.__",
+    "roles": [
+      "Staff",
+      "Event Team",
+      "Management"
+    ]
+  },
   "309440429890338818": {
     "tag": "burakokur_",
     "roles": [
@@ -125,14 +133,6 @@
     "roles": [
       "Staff",
       "Event Team"
-    ]
-  },
-  "929830758137348138": {
-    "tag": "gummy.__",
-    "roles": [
-      "Staff",
-      "Event Team",
-      "Management"
     ]
   },
   "659628946958188556": {
@@ -149,15 +149,15 @@
       "Media Team"
     ]
   },
-  "423002528184139790": {
-    "tag": "pootis01",
+  "261431342875541505": {
+    "tag": "wufee",
     "roles": [
       "Staff",
       "Media Team"
     ]
   },
-  "261431342875541505": {
-    "tag": "wufee",
+  "423002528184139790": {
+    "tag": "pootis01",
     "roles": [
       "Staff",
       "Media Team"
