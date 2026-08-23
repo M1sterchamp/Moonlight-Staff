@@ -98,13 +98,6 @@
       "Human Resources"
     ]
   },
-  "170078904403492864": {
-    "tag": "velocityshadow",
-    "roles": [
-      "Staff",
-      "Human Resources"
-    ]
-  },
   "502535459390357517": {
     "tag": "galandt",
     "roles": [
@@ -113,12 +106,11 @@
       "Human Resources"
     ]
   },
-  "929830758137348138": {
-    "tag": "gummy.__",
+  "170078904403492864": {
+    "tag": "velocityshadow",
     "roles": [
       "Staff",
-      "Event Team",
-      "Management"
+      "Human Resources"
     ]
   },
   "309440429890338818": {
@@ -133,6 +125,14 @@
     "roles": [
       "Staff",
       "Event Team"
+    ]
+  },
+  "929830758137348138": {
+    "tag": "gummy.__",
+    "roles": [
+      "Staff",
+      "Event Team",
+      "Management"
     ]
   },
   "659628946958188556": {
