@@ -105,12 +105,11 @@
       "Human Resources"
     ]
   },
-  "929830758137348138": {
-    "tag": "gummy.__",
+  "498107193309265960": {
+    "tag": "theflynner",
     "roles": [
       "Staff",
-      "Event Team",
-      "Management"
+      "Event Team"
     ]
   },
   "309440429890338818": {
@@ -127,11 +126,12 @@
       "Event Team"
     ]
   },
-  "498107193309265960": {
-    "tag": "theflynner",
+  "929830758137348138": {
+    "tag": "gummy.__",
     "roles": [
       "Staff",
-      "Event Team"
+      "Event Team",
+      "Management"
     ]
   },
   "659628946958188556": {
@@ -139,6 +139,13 @@
     "roles": [
       "Staff",
       "Event Team"
+    ]
+  },
+  "1125047721863163974": {
+    "tag": "cardigasobtrr",
+    "roles": [
+      "Staff",
+      "Media Team"
     ]
   },
   "423002528184139790": {
@@ -150,13 +157,6 @@
   },
   "261431342875541505": {
     "tag": "wufee",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
-  "1125047721863163974": {
-    "tag": "cardigasobtrr",
     "roles": [
       "Staff",
       "Media Team"
@@ -201,14 +201,14 @@
       "Community Moderator"
     ]
   },
-  "695389156901126238": {
-    "tag": "skyekip",
+  "427924061734305814": {
+    "tag": "charles_beagle",
     "roles": [
       "Staff"
     ]
   },
-  "427924061734305814": {
-    "tag": "charles_beagle",
+  "695389156901126238": {
+    "tag": "skyekip",
     "roles": [
       "Staff"
     ]
