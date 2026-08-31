@@ -90,14 +90,6 @@
       "Human Resources"
     ]
   },
-  "502535459390357517": {
-    "tag": "galandt",
-    "roles": [
-      "Staff",
-      "Event Team",
-      "Human Resources"
-    ]
-  },
   "170078904403492864": {
     "tag": "velocityshadow",
     "roles": [
@@ -105,11 +97,12 @@
       "Human Resources"
     ]
   },
-  "498107193309265960": {
-    "tag": "theflynner",
+  "502535459390357517": {
+    "tag": "galandt",
     "roles": [
       "Staff",
-      "Event Team"
+      "Event Team",
+      "Human Resources"
     ]
   },
   "309440429890338818": {
@@ -121,6 +114,13 @@
   },
   "484771446674161668": {
     "tag": "xmythicalgirlx",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
+  "498107193309265960": {
+    "tag": "theflynner",
     "roles": [
       "Staff",
       "Event Team"
@@ -208,14 +208,14 @@
       "Community Moderator"
     ]
   },
-  "427924061734305814": {
-    "tag": "charles_beagle",
+  "695389156901126238": {
+    "tag": "skyekip",
     "roles": [
       "Staff"
     ]
   },
-  "695389156901126238": {
-    "tag": "skyekip",
+  "427924061734305814": {
+    "tag": "charles_beagle",
     "roles": [
       "Staff"
     ]
