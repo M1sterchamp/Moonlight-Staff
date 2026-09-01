@@ -82,11 +82,11 @@
       "Human Resources"
     ]
   },
-  "1452062012577419437": {
-    "tag": "nailz_93",
+  "502535459390357517": {
+    "tag": "galandt",
     "roles": [
       "Staff",
-      "Community Moderator",
+      "Event Team",
       "Human Resources"
     ]
   },
@@ -97,12 +97,19 @@
       "Human Resources"
     ]
   },
-  "502535459390357517": {
-    "tag": "galandt",
+  "1452062012577419437": {
+    "tag": "nailz_93",
     "roles": [
       "Staff",
-      "Event Team",
+      "Community Moderator",
       "Human Resources"
+    ]
+  },
+  "498107193309265960": {
+    "tag": "theflynner",
+    "roles": [
+      "Staff",
+      "Event Team"
     ]
   },
   "309440429890338818": {
@@ -114,13 +121,6 @@
   },
   "484771446674161668": {
     "tag": "xmythicalgirlx",
-    "roles": [
-      "Staff",
-      "Event Team"
-    ]
-  },
-  "498107193309265960": {
-    "tag": "theflynner",
     "roles": [
       "Staff",
       "Event Team"
@@ -168,18 +168,18 @@
       "Media Team"
     ]
   },
-  "787293574294536193": {
-    "tag": "rossco00",
-    "roles": [
-      "Staff",
-      "Addon Team"
-    ]
-  },
   "202757403278704640": {
     "tag": "vintageuk",
     "roles": [
       "Staff",
       "Save Edit Team",
+      "Addon Team"
+    ]
+  },
+  "787293574294536193": {
+    "tag": "rossco00",
+    "roles": [
+      "Staff",
       "Addon Team"
     ]
   },
@@ -216,14 +216,14 @@
       "Community Moderator"
     ]
   },
-  "427924061734305814": {
-    "tag": "charles_beagle",
+  "695389156901126238": {
+    "tag": "skyekip",
     "roles": [
       "Staff"
     ]
   },
-  "695389156901126238": {
-    "tag": "skyekip",
+  "427924061734305814": {
+    "tag": "charles_beagle",
     "roles": [
       "Staff"
     ]
