@@ -23,6 +23,20 @@
       "Management"
     ]
   },
+  "1334195615160205366": {
+    "tag": "aekiai",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
+    ]
+  },
+  "853019212174589982": {
+    "tag": "03irem",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
+    ]
+  },
   "752132512272351239": {
     "tag": "omernacar",
     "roles": [
@@ -46,6 +60,15 @@
     "roles": [
       "Addon Team",
       "Graphic Design Manager",
+      "Media Manager",
+      "Management"
+    ]
+  },
+  "856995217231314984": {
+    "tag": "whoiskerem",
+    "roles": [
+      "Staff",
+      "Media Team",
       "Media Manager",
       "Management"
     ]
@@ -75,6 +98,13 @@
       "Human Resources"
     ]
   },
+  "170078904403492864": {
+    "tag": "velocityshadow",
+    "roles": [
+      "Staff",
+      "Human Resources"
+    ]
+  },
   "929830758137348138": {
     "tag": "gummy.__",
     "roles": [
@@ -85,6 +115,27 @@
   },
   "498107193309265960": {
     "tag": "theflynner",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
+  "659628946958188556": {
+    "tag": "tavuq0",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
+  "484771446674161668": {
+    "tag": "xmythicalgirlx",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
+  "309440429890338818": {
+    "tag": "burakokur_",
     "roles": [
       "Staff",
       "Event Team"
@@ -104,6 +155,13 @@
       "Media Team"
     ]
   },
+  "1125047721863163974": {
+    "tag": "cardigasobtrr",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
   "202757403278704640": {
     "tag": "vintageuk",
     "roles": [
@@ -112,8 +170,22 @@
       "Save Edit Team"
     ]
   },
+  "363505818215120898": {
+    "tag": "ojv5",
+    "roles": [
+      "Staff",
+      "Addon Team"
+    ]
+  },
   "824094744694226954": {
     "tag": "missbliss98x",
+    "roles": [
+      "Staff",
+      "Community Moderator"
+    ]
+  },
+  "242377136646782987": {
+    "tag": "firefly5050",
     "roles": [
       "Staff",
       "Community Moderator"
