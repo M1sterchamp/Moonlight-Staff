@@ -82,14 +82,6 @@
       "Human Resources"
     ]
   },
-  "1452062012577419437": {
-    "tag": "nailz_93",
-    "roles": [
-      "Staff",
-      "Community Moderator",
-      "Human Resources"
-    ]
-  },
   "170078904403492864": {
     "tag": "velocityshadow",
     "roles": [
@@ -105,11 +97,12 @@
       "Human Resources"
     ]
   },
-  "498107193309265960": {
-    "tag": "theflynner",
+  "1452062012577419437": {
+    "tag": "nailz_93",
     "roles": [
       "Staff",
-      "Event Team"
+      "Community Moderator",
+      "Human Resources"
     ]
   },
   "309440429890338818": {
@@ -121,6 +114,13 @@
   },
   "484771446674161668": {
     "tag": "xmythicalgirlx",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
+  "498107193309265960": {
+    "tag": "theflynner",
     "roles": [
       "Staff",
       "Event Team"
@@ -141,13 +141,6 @@
       "Event Team"
     ]
   },
-  "261431342875541505": {
-    "tag": "wufee",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
   "1125047721863163974": {
     "tag": "cardigasobtrr",
     "roles": [
@@ -157,6 +150,13 @@
   },
   "423002528184139790": {
     "tag": "pootis01",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
+  "261431342875541505": {
+    "tag": "wufee",
     "roles": [
       "Staff",
       "Media Team"
