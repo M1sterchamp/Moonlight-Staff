@@ -82,14 +82,6 @@
       "Human Resources"
     ]
   },
-  "502535459390357517": {
-    "tag": "galandt",
-    "roles": [
-      "Staff",
-      "Event Team",
-      "Human Resources"
-    ]
-  },
   "1452062012577419437": {
     "tag": "nailz_93",
     "roles": [
@@ -105,23 +97,16 @@
       "Human Resources"
     ]
   },
-  "929830758137348138": {
-    "tag": "gummy.__",
+  "502535459390357517": {
+    "tag": "galandt",
     "roles": [
       "Staff",
       "Event Team",
-      "Management"
+      "Human Resources"
     ]
   },
-  "498107193309265960": {
-    "tag": "theflynner",
-    "roles": [
-      "Staff",
-      "Event Team"
-    ]
-  },
-  "659628946958188556": {
-    "tag": "tavuq0",
+  "309440429890338818": {
+    "tag": "burakokur_",
     "roles": [
       "Staff",
       "Event Team"
@@ -134,15 +119,30 @@
       "Event Team"
     ]
   },
-  "309440429890338818": {
-    "tag": "burakokur_",
+  "498107193309265960": {
+    "tag": "theflynner",
     "roles": [
       "Staff",
       "Event Team"
     ]
   },
-  "261431342875541505": {
-    "tag": "wufee",
+  "929830758137348138": {
+    "tag": "gummy.__",
+    "roles": [
+      "Staff",
+      "Event Team",
+      "Management"
+    ]
+  },
+  "659628946958188556": {
+    "tag": "tavuq0",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
+  "1125047721863163974": {
+    "tag": "cardigasobtrr",
     "roles": [
       "Staff",
       "Media Team"
@@ -155,8 +155,8 @@
       "Media Team"
     ]
   },
-  "1125047721863163974": {
-    "tag": "cardigasobtrr",
+  "261431342875541505": {
+    "tag": "wufee",
     "roles": [
       "Staff",
       "Media Team"
@@ -190,10 +190,22 @@
       "Community Moderator"
     ]
   },
+  "468182109098344470": {
+    "tag": ".frxnk.",
+    "roles": [
+      "Community Moderator"
+    ]
+  },
   "242377136646782987": {
     "tag": "firefly5050",
     "roles": [
       "Staff",
+      "Community Moderator"
+    ]
+  },
+  "675362968271060992": {
+    "tag": "_phantomshade",
+    "roles": [
       "Community Moderator"
     ]
   }
