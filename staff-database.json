@@ -15,14 +15,6 @@
       "Local Mod Team"
     ]
   },
-  "507039790756265984": {
-    "tag": "rb1988",
-    "roles": [
-      "CEO",
-      "Leadership",
-      "Management"
-    ]
-  },
   "1334195615160205366": {
     "tag": "aekiai",
     "roles": [
@@ -198,6 +190,13 @@
     "tag": "_phantomshade",
     "roles": [
       "Community Moderator"
+    ]
+  },
+  "507039790756265984": {
+    "tag": "rb1988",
+    "roles": [
+      "Leadership",
+      "Management"
     ]
   }
 }
