@@ -38,11 +38,30 @@
       "Community Moderator"
     ]
   },
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Community Manager",
+      "Staff",
+      "Event Team",
+      "Management",
+      "Media Team"
+    ]
+  },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
       "Addon Team",
       "Graphic Design Manager",
+      "Media Manager",
+      "Management"
+    ]
+  },
+  "856995217231314984": {
+    "tag": "whoiskerem",
+    "roles": [
+      "Staff",
+      "Media Team",
       "Media Manager",
       "Management"
     ]
@@ -77,6 +96,20 @@
       "Event Team"
     ]
   },
+  "659628946958188556": {
+    "tag": "tavuq0",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
+  "309440429890338818": {
+    "tag": "burakokur_",
+    "roles": [
+      "Staff",
+      "Event Team"
+    ]
+  },
   "261431342875541505": {
     "tag": "wufee",
     "roles": [
@@ -99,11 +132,31 @@
       "Save Edit Team"
     ]
   },
+  "363505818215120898": {
+    "tag": "ojv5",
+    "roles": [
+      "Staff",
+      "Addon Team"
+    ]
+  },
   "824094744694226954": {
     "tag": "missbliss98x",
     "roles": [
       "Staff",
       "Community Moderator"
+    ]
+  },
+  "242377136646782987": {
+    "tag": "firefly5050",
+    "roles": [
+      "Staff",
+      "Community Moderator"
+    ]
+  },
+  "507039790756265984": {
+    "tag": "rb1988",
+    "roles": [
+      "Management"
     ]
   }
 }
