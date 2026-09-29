@@ -55,8 +55,8 @@
     "tag": "theflynner",
     "roles": [
       "Staff",
-      "Event Team",
-      "Human Resources"
+      "Human Resources",
+      "Event Team"
     ]
   },
   "1547769365175214114": {
@@ -86,6 +86,12 @@
     "roles": [
       "Staff",
       "Community Moderator"
+    ]
+  },
+  "507039790756265984": {
+    "tag": "rb1988",
+    "roles": [
+      "Management"
     ]
   }
 }
