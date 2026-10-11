@@ -57,14 +57,6 @@
       "Management"
     ]
   },
-  "1452062012577419437": {
-    "tag": "nailz_93",
-    "roles": [
-      "Staff",
-      "Community Moderator",
-      "Human Resources"
-    ]
-  },
   "170078904403492864": {
     "tag": "velocityshadow",
     "roles": [
@@ -88,12 +80,12 @@
       "Human Resources"
     ]
   },
-  "824094744694226954": {
-    "tag": "missbliss98x",
+  "1452062012577419437": {
+    "tag": "nailz_93",
     "roles": [
       "Staff",
-      "Event Team",
-      "Community Moderator"
+      "Community Moderator",
+      "Human Resources"
     ]
   },
   "309440429890338818": {
@@ -101,6 +93,14 @@
     "roles": [
       "Staff",
       "Event Team"
+    ]
+  },
+  "824094744694226954": {
+    "tag": "missbliss98x",
+    "roles": [
+      "Staff",
+      "Event Team",
+      "Community Moderator"
     ]
   },
   "458756998603735042": {
@@ -114,6 +114,13 @@
     "tag": "mamiisd",
     "roles": [
       "Graphics Design"
+    ]
+  },
+  "1547769365175214114": {
+    "tag": "cardigaso_btrr",
+    "roles": [
+      "Staff",
+      "Media Team"
     ]
   },
   "423002528184139790": {
@@ -133,13 +140,6 @@
   "426843220526497792": {
     "tag": "itzniohe",
     "roles": [
-      "Media Team"
-    ]
-  },
-  "1547769365175214114": {
-    "tag": "cardigaso_btrr",
-    "roles": [
-      "Staff",
       "Media Team"
     ]
   },
