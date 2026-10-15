@@ -65,13 +65,6 @@
       "Human Resources"
     ]
   },
-  "170078904403492864": {
-    "tag": "velocityshadow",
-    "roles": [
-      "Staff",
-      "Human Resources"
-    ]
-  },
   "502535459390357517": {
     "tag": "galandt",
     "roles": [
@@ -180,6 +173,12 @@
     "tag": "rb1988",
     "roles": [
       "Management"
+    ]
+  },
+  "170078904403492864": {
+    "tag": "velocityshadow",
+    "roles": [
+      "Staff"
     ]
   }
 }
