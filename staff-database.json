@@ -56,9 +56,9 @@
     "roles": [
       "Community Manager",
       "Staff",
-      "Media Team",
       "Event Team",
-      "Management"
+      "Management",
+      "Media Team"
     ]
   },
   "458756998603735042": {
@@ -168,6 +168,13 @@
   },
   "839134091457855608": {
     "tag": "_.novis._",
+    "roles": [
+      "Staff",
+      "Community Moderator"
+    ]
+  },
+  "653960359559954453": {
+    "tag": "samofound",
     "roles": [
       "Staff",
       "Community Moderator"
