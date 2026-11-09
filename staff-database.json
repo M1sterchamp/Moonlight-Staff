@@ -15,8 +15,37 @@
       "Management"
     ]
   },
+  "1334195615160205366": {
+    "tag": "aekiai",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
+    ]
+  },
+  "853019212174589982": {
+    "tag": "03irem",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
+    ]
+  },
   "392444887233986560": {
     "tag": "zackhere_",
+    "roles": [
+      "Event Manager",
+      "Management"
+    ]
+  },
+  "752132512272351239": {
+    "tag": "omernacar",
+    "roles": [
+      "Graphics Design",
+      "Event Manager",
+      "Management"
+    ]
+  },
+  "343681271383326720": {
+    "tag": "aurma",
     "roles": [
       "Event Manager",
       "Management"
@@ -74,6 +103,14 @@
       "Human Resources"
     ]
   },
+  "502535459390357517": {
+    "tag": "galandt",
+    "roles": [
+      "Staff",
+      "Event Team",
+      "Human Resources"
+    ]
+  },
   "261431342875541505": {
     "tag": "wufee",
     "roles": [
@@ -86,6 +123,21 @@
     "roles": [
       "Staff",
       "Media Team"
+    ]
+  },
+  "363505818215120898": {
+    "tag": "ojv5",
+    "roles": [
+      "Staff",
+      "Addon Team"
+    ]
+  },
+  "202757403278704640": {
+    "tag": "vintageuk",
+    "roles": [
+      "Staff",
+      "Addon Team",
+      "Save Edit Team"
     ]
   },
   "839134091457855608": {
@@ -107,6 +159,12 @@
     "roles": [
       "Staff",
       "Community Moderator"
+    ]
+  },
+  "507039790756265984": {
+    "tag": "rb1988",
+    "roles": [
+      "Management"
     ]
   }
 }
