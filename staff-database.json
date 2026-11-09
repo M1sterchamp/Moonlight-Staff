@@ -1,66 +1,4 @@
 {
-  "291354776044830720": {
-    "tag": "_ashleyyy_",
-    "roles": [
-      "Founder",
-      "Web Developer",
-      "Leadership"
-    ]
-  },
-  "1031144600187973642": {
-    "tag": "misterchamp",
-    "roles": [
-      "Co-Founder",
-      "Local Mod Team",
-      "Management"
-    ]
-  },
-  "1334195615160205366": {
-    "tag": "aekiai",
-    "roles": [
-      "Management",
-      "Human Resources Manager"
-    ]
-  },
-  "853019212174589982": {
-    "tag": "03irem",
-    "roles": [
-      "Management",
-      "Human Resources Manager"
-    ]
-  },
-  "343681271383326720": {
-    "tag": "aurma",
-    "roles": [
-      "Event Manager",
-      "Management"
-    ]
-  },
-  "752132512272351239": {
-    "tag": "omernacar",
-    "roles": [
-      "Graphics Design",
-      "Event Manager",
-      "Management"
-    ]
-  },
-  "392444887233986560": {
-    "tag": "zackhere_",
-    "roles": [
-      "Event Manager",
-      "Management"
-    ]
-  },
-  "600192768270139413": {
-    "tag": "nouruton",
-    "roles": [
-      "Community Manager",
-      "Staff",
-      "Media Team",
-      "Event Team",
-      "Management"
-    ]
-  },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
@@ -69,12 +7,11 @@
       "Management"
     ]
   },
-  "856995217231314984": {
-    "tag": "whoiskerem",
+  "1031144600187973642": {
+    "tag": "misterchamp",
     "roles": [
-      "Staff",
-      "Media Team",
-      "Media Manager",
+      "Co-Founder",
+      "Local Mod Team",
       "Management"
     ]
   },
@@ -86,59 +23,44 @@
       "Management"
     ]
   },
-  "498107193309265960": {
-    "tag": "theflynner",
+  "1334195615160205366": {
+    "tag": "aekiai",
     "roles": [
-      "Staff",
-      "Event Assistant",
-      "Human Resources",
-      "Event Team"
+      "Management",
+      "Human Resources Manager"
     ]
   },
-  "1452062012577419437": {
-    "tag": "nailz_93",
+  "839134091457855608": {
+    "tag": "_.novis._",
     "roles": [
       "Staff",
-      "Community Moderator",
-      "Human Resources"
+      "Community Moderator"
     ]
   },
-  "502535459390357517": {
-    "tag": "galandt",
+  "343681271383326720": {
+    "tag": "aurma",
+    "roles": [
+      "Event Manager",
+      "Management"
+    ]
+  },
+  "291354776044830720": {
+    "tag": "_ashleyyy_",
+    "roles": [
+      "Founder",
+      "Web Developer",
+      "Leadership"
+    ]
+  },
+  "653960359559954453": {
+    "tag": "samofound",
     "roles": [
       "Staff",
-      "Event Team",
-      "Human Resources"
-    ]
-  },
-  "663052337698439179": {
-    "tag": "mamiisd",
-    "roles": [
-      "Graphics Design"
+      "Community Moderator"
     ]
   },
   "423002528184139790": {
     "tag": "pootis01",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
-  "261431342875541505": {
-    "tag": "wufee",
-    "roles": [
-      "Staff",
-      "Media Team"
-    ]
-  },
-  "426843220526497792": {
-    "tag": "itzniohe",
-    "roles": [
-      "Media Team"
-    ]
-  },
-  "1547769365175214114": {
-    "tag": "cardigaso_btrr",
     "roles": [
       "Staff",
       "Media Team"
@@ -152,11 +74,36 @@
       "Save Edit Team"
     ]
   },
-  "363505818215120898": {
-    "tag": "ojv5",
+  "856995217231314984": {
+    "tag": "whoiskerem",
     "roles": [
       "Staff",
-      "Addon Team"
+      "Media Team",
+      "Media Manager",
+      "Management"
+    ]
+  },
+  "752132512272351239": {
+    "tag": "omernacar",
+    "roles": [
+      "Graphics Design",
+      "Event Manager",
+      "Management"
+    ]
+  },
+  "502535459390357517": {
+    "tag": "galandt",
+    "roles": [
+      "Staff",
+      "Event Team",
+      "Human Resources"
+    ]
+  },
+  "261431342875541505": {
+    "tag": "wufee",
+    "roles": [
+      "Staff",
+      "Media Team"
     ]
   },
   "824094744694226954": {
@@ -166,24 +113,77 @@
       "Community Moderator"
     ]
   },
-  "839134091457855608": {
-    "tag": "_.novis._",
-    "roles": [
-      "Staff",
-      "Community Moderator"
-    ]
-  },
-  "653960359559954453": {
-    "tag": "samofound",
-    "roles": [
-      "Staff",
-      "Community Moderator"
-    ]
-  },
   "507039790756265984": {
     "tag": "rb1988",
     "roles": [
       "Management"
+    ]
+  },
+  "392444887233986560": {
+    "tag": "zackhere_",
+    "roles": [
+      "Event Manager",
+      "Management"
+    ]
+  },
+  "426843220526497792": {
+    "tag": "itzniohe",
+    "roles": [
+      "Media Team"
+    ]
+  },
+  "363505818215120898": {
+    "tag": "ojv5",
+    "roles": [
+      "Staff",
+      "Addon Team"
+    ]
+  },
+  "600192768270139413": {
+    "tag": "nouruton",
+    "roles": [
+      "Community Manager",
+      "Staff",
+      "Media Team",
+      "Event Team",
+      "Management"
+    ]
+  },
+  "853019212174589982": {
+    "tag": "03irem",
+    "roles": [
+      "Management",
+      "Human Resources Manager"
+    ]
+  },
+  "498107193309265960": {
+    "tag": "theflynner",
+    "roles": [
+      "Staff",
+      "Event Assistant",
+      "Human Resources",
+      "Event Team"
+    ]
+  },
+  "1547769365175214114": {
+    "tag": "cardigaso_btrr",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
+  "1452062012577419437": {
+    "tag": "nailz_93",
+    "roles": [
+      "Staff",
+      "Community Moderator",
+      "Human Resources"
+    ]
+  },
+  "663052337698439179": {
+    "tag": "mamiisd",
+    "roles": [
+      "Graphics Design"
     ]
   }
 }
