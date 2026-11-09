@@ -1,10 +1,32 @@
 {
+  "804114837910847528": {
+    "tag": "not_ze_one",
+    "roles": [
+      "Media Team",
+      "Addon Manager",
+      "Management"
+    ]
+  },
   "1452062012577419437": {
     "tag": "nailz_93",
     "roles": [
       "Staff",
       "Community Moderator",
       "Human Resources"
+    ]
+  },
+  "261431342875541505": {
+    "tag": "wufee",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
+  "839134091457855608": {
+    "tag": "_.novis._",
+    "roles": [
+      "Staff",
+      "Community Moderator"
     ]
   }
 }
