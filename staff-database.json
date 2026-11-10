@@ -36,17 +36,17 @@
       "Management"
     ]
   },
-  "752132512272351239": {
-    "tag": "omernacar",
+  "343681271383326720": {
+    "tag": "aurma",
     "roles": [
-      "Graphics Design",
       "Event Manager",
       "Management"
     ]
   },
-  "343681271383326720": {
-    "tag": "aurma",
+  "752132512272351239": {
+    "tag": "omernacar",
     "roles": [
+      "Graphics Design",
       "Event Manager",
       "Management"
     ]
@@ -111,11 +111,10 @@
       "Human Resources"
     ]
   },
-  "261431342875541505": {
-    "tag": "wufee",
+  "663052337698439179": {
+    "tag": "mamiisd",
     "roles": [
-      "Staff",
-      "Media Team"
+      "Graphics Design"
     ]
   },
   "423002528184139790": {
@@ -125,11 +124,24 @@
       "Media Team"
     ]
   },
-  "363505818215120898": {
-    "tag": "ojv5",
+  "261431342875541505": {
+    "tag": "wufee",
     "roles": [
       "Staff",
-      "Addon Team"
+      "Media Team"
+    ]
+  },
+  "426843220526497792": {
+    "tag": "itzniohe",
+    "roles": [
+      "Media Team"
+    ]
+  },
+  "1547769365175214114": {
+    "tag": "cardigaso_btrr",
+    "roles": [
+      "Staff",
+      "Media Team"
     ]
   },
   "202757403278704640": {
@@ -138,6 +150,20 @@
       "Staff",
       "Addon Team",
       "Save Edit Team"
+    ]
+  },
+  "363505818215120898": {
+    "tag": "ojv5",
+    "roles": [
+      "Staff",
+      "Addon Team"
+    ]
+  },
+  "824094744694226954": {
+    "tag": "missbliss98x",
+    "roles": [
+      "Staff",
+      "Community Moderator"
     ]
   },
   "839134091457855608": {
@@ -149,13 +175,6 @@
   },
   "653960359559954453": {
     "tag": "samofound",
-    "roles": [
-      "Staff",
-      "Community Moderator"
-    ]
-  },
-  "824094744694226954": {
-    "tag": "missbliss98x",
     "roles": [
       "Staff",
       "Community Moderator"
