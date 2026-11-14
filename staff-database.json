@@ -69,15 +69,6 @@
       "Management"
     ]
   },
-  "856995217231314984": {
-    "tag": "whoiskerem",
-    "roles": [
-      "Staff",
-      "Media Team",
-      "Media Manager",
-      "Management"
-    ]
-  },
   "804114837910847528": {
     "tag": "not_ze_one",
     "roles": [
@@ -119,6 +110,13 @@
   },
   "423002528184139790": {
     "tag": "pootis01",
+    "roles": [
+      "Staff",
+      "Media Team"
+    ]
+  },
+  "856995217231314984": {
+    "tag": "whoiskerem",
     "roles": [
       "Staff",
       "Media Team"
