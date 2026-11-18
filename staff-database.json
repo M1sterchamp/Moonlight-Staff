@@ -56,9 +56,9 @@
     "roles": [
       "Community Manager",
       "Staff",
-      "Media Team",
       "Event Team",
-      "Management"
+      "Management",
+      "Media Team"
     ]
   },
   "458756998603735042": {
@@ -80,9 +80,9 @@
   "804114837910847528": {
     "tag": "not_ze_one",
     "roles": [
-      "Management",
       "Media Team",
-      "Addon Manager"
+      "Addon Manager",
+      "Management"
     ]
   },
   "498107193309265960": {
