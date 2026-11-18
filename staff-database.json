@@ -29,13 +29,6 @@
       "Human Resources Manager"
     ]
   },
-  "392444887233986560": {
-    "tag": "zackhere_",
-    "roles": [
-      "Event Manager",
-      "Management"
-    ]
-  },
   "343681271383326720": {
     "tag": "aurma",
     "roles": [
@@ -51,6 +44,13 @@
       "Management"
     ]
   },
+  "392444887233986560": {
+    "tag": "zackhere_",
+    "roles": [
+      "Event Manager",
+      "Management"
+    ]
+  },
   "600192768270139413": {
     "tag": "nouruton",
     "roles": [
@@ -61,18 +61,18 @@
       "Management"
     ]
   },
-  "729316403991150662": {
-    "tag": "shufflie",
-    "roles": [
-      "Media Manager",
-      "Management"
-    ]
-  },
   "458756998603735042": {
     "tag": "02q.",
     "roles": [
       "Addon Team",
       "Graphic Design Manager",
+      "Media Manager",
+      "Management"
+    ]
+  },
+  "729316403991150662": {
+    "tag": "shufflie",
+    "roles": [
       "Media Manager",
       "Management"
     ]
